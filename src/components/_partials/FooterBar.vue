@@ -1,5 +1,5 @@
 <template>
-    <v-footer class=" flex flex-col mt-[100vh] md:mt-60 w-full py-5">
+    <v-footer class=" flex flex-col mt-[100vh] md:mt-64 w-full py-5">
         <div class="bg-blue-950 w-full h-auto text-right absolute bottom-0">
             <v-spacer></v-spacer>
             <input type="text" placeholder="Insert your e-mail here"

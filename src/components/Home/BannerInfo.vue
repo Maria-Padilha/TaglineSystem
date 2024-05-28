@@ -1,6 +1,6 @@
 <template>
-    <div class="w-screen h-96 bg-blue-900 flex flex-col">
-        <h1 class=" text-center md:text-5xl mt-20 text-4xl font-medium text-gray-200">Simple and Safe Banking</h1>
+    <div class="w-screen h-[60vh] bg-blue-900 flex flex-col">
+        <h1 class=" text-center md:text-5xl mt-28 text-4xl font-medium text-gray-200">Simple and Safe Banking</h1>
         <p class=" mt-2 md:text-lg font-extralight text-gray-300 text-center">Approved by millions of users worldwide
         </p>
         <div class=" flex justify-center w-[100%] mt-12">

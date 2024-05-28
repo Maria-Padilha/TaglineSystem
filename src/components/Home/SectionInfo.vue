@@ -1,5 +1,5 @@
 <template>
-     <section class=" bg-white pt-5 pb-20 px-5 shadow-md w-[80%] relative lg:top-[-5%] top-[-3%] left-[10%] rounded-md">
+     <section class=" bg-white pt-5 pb-20 px-5 shadow-md w-[80%] relative lg:top-[-3%] top-[-1%] left-[10%] rounded-md">
         <CardTree>
             <template v-slot:h3>Easy payments with one tap</template>
             <template v-slot:parag>Send and request money with anyone. No extra fees.</template>
