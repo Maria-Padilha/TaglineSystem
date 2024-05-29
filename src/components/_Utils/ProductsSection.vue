@@ -25,7 +25,7 @@
 
 <script setup>
 import { ref } from 'vue';
-import BtnRedirect from '../_components/BtnRedirect.vue';
+import BtnRedirect from '../_Utils/BtnRedirect.vue';
 const links = ref([
     {
         id: 1, 

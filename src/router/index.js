@@ -3,6 +3,8 @@ import HomeView from '../views/HomeView.vue';
 import ProductView from '../views/ProductView.vue';
 import AboutView from '../views/AboutView.vue';
 import BlogView from '../views/BlogView.vue';
+import BusinessView from '../views/BusinessView.vue';
+import SignView from '../views/SignView.vue';
 
 const routes = [
   {
@@ -25,6 +27,16 @@ const routes = [
     name: 'blog',
     component: BlogView
   },
+  {
+    path: '/business',
+    name: 'business',
+    component: BusinessView
+  },
+  {
+    path: '/sign',
+    name: 'sign',
+    component: SignView
+  }
 ]
 
 const router = createRouter({

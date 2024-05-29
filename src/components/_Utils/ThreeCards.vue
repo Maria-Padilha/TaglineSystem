@@ -9,7 +9,7 @@
                     <p class=" mt-2 md:text-lg font-extralight text-black text-base">
                         <slot name="parag"></slot>
                     </p>
-                    <v-btn class=" capitalize font-semibold w-44 mt-5 rounded-full" variant="flat">
+                    <v-btn class=" capitalize font-semibold w-52 mt-5 rounded-full" variant="flat">
                         <slot name="btn"></slot>
                     </v-btn>
                 </div>
@@ -20,7 +20,7 @@
         </v-col>
         <v-col cols="12" md="6" v-for="sheet in sheets" :key="sheet.id">
             <v-sheet class=" flex justify-center flex-col mt-1 mx-auto rounded-md h-60 bg-stone-200">
-                <div class=" px-10 flex flex-col">
+                <div class=" px-10 flex flex-col text-center">
                     <h3 class=" md:text-3xl text-xl font-bold">
                         <slot :name="sheet.h3Slot"></slot>
                     </h3>

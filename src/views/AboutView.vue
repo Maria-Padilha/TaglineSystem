@@ -6,6 +6,6 @@
 
 <script setup>
 import HeaderBar from '@/components/_partials/HeaderBar.vue';
-import ContainerAbout from '@/components/About/ContainerAbout.vue';
+import ContainerAbout from '@/components/ContainerAbout.vue';
 import FooterBar from '@/components/_partials/FooterBar.vue';
 </script>

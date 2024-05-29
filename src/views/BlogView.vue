@@ -6,8 +6,8 @@
 
 <script setup>
 import HeaderBar from '@/components/_partials/HeaderBar.vue';
-import ContainerBlog from '@/components/Blog/ContainerBlog.vue';
+import ContainerBlog from '@/components/ContainerBlog.vue';
 import FooterBar from '@/components/_partials/FooterBar.vue';
 </script>
-import FooterBar from '@/components/_partials/FooterBar.vue';
+
 

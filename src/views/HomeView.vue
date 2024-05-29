@@ -1,15 +1,11 @@
 <template>
   <HeaderBar />
-  <BannerInfo />
-  <SectionInfo />
-  <LastSection />
+  <ContainerHome />
   <FooterBar />
 </template>
 
 <script setup>
   import HeaderBar from '@/components/_partials/HeaderBar.vue';
-  import BannerInfo from '@/components/Home/BannerInfo.vue';
-  import SectionInfo from '@/components/Home/SectionInfo.vue';
-  import LastSection from '@/components/Home/LastSection.vue';
+  import ContainerHome from '@/components/ContainerHome.vue';
   import FooterBar from '@/components/_partials/FooterBar.vue';
 </script>
