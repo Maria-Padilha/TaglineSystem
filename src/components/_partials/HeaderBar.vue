@@ -17,7 +17,7 @@
 
             <!-- link para as páginas -->
             <ul>
-                <li :class="hidden" class=" flex flex-col md:flex-row absolute z-10 shadow-md md:shadow-none bg-responsive-blue md:relative md:bg-transparent 
+                <li :class="hidden" class=" flex flex-col md:flex-row absolute z-10 shadow-md md:shadow-none bg-blue-header md:relative md:bg-transparent 
                  w-full left-0 h-72 md:h-full justify-center">
                     <!-- loop de repetição para criação de cada link -->
                     <v-btn class=" text-left capitalize text-lg md:text-base" variant="text" v-for="link in links"

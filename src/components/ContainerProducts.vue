@@ -36,7 +36,7 @@
         </template>
     </ProductsSection>
 
-        <!-- terceira e última repetição utilizando o mesmo componente -->
+    <!-- terceira e última repetição utilizando o mesmo componente -->
     <ProductsSection>
         <template v-slot:lastLink>
             <ul class="ul my-5 mx-5 md:px-20">
