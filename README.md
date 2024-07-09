@@ -15,3 +15,6 @@
 
 ## Preview
 ![tagline](https://github.com/Maria-Padilha/maria-padilha/assets/109801423/34bb1ec4-eba5-487b-b9a9-6b042e2eba92)
+
+💻
+<a href="https://taglineteste.netlify.app/" target="_blank">Visite a Página</a>
